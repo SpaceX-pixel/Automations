@@ -1,9 +1,4 @@
-# High Performance Site Reliability Engineering: A Complete Study Guide
-
----
-
 # Chapter 8 — On-Call and First Response
-
 ---
 
 ## Table of Contents
@@ -2121,10 +2116,5 @@ All alerts page with the same urgency — full phone calls at 3am for a dev envi
 > - **Handoff quality is the continuity mechanism.** A structured handoff template covering open incidents, silenced alerts, upcoming risky changes, and fragile areas is the primary knowledge transfer between rotation shifts.
 
 ---
-
 *Previous: [Chapter 7 — Capacity Planning](#chapter-7)*
 *Next: Chapter 9 — Root Cause Analysis and Post-Mortems*
-
----
-
-*Document version: 1.0 | Study Guide: High Performance SRE | Chapter 8 of 12*
