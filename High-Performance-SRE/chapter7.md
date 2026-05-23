@@ -1,11 +1,5 @@
-# High Performance Site Reliability Engineering: A Complete Study Guide
-
----
-
 # Chapter 7 — Capacity Planning
-
 ---
-
 ## Table of Contents
 
 - [Learning Objectives](#learning-objectives)
@@ -1943,10 +1937,5 @@ Services are provisioned at N (exactly enough for peak). During normal operation
 > - **N+1 is a minimum, not a luxury.** Every production service must be able to serve peak traffic after losing at least one instance. For 99.99%+ SLOs, N+2 across multiple availability zones is required.
 
 ---
-
 *Previous: [Chapter 6 — SLI / SLO / SLA](#chapter-6)*
 *Next: Chapter 8 — On-Call and First Response*
-
----
-
-*Document version: 1.0 | Study Guide: High Performance SRE | Chapter 7 of 12*
