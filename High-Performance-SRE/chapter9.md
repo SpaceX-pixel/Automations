@@ -1,9 +1,4 @@
-# High Performance Site Reliability Engineering: A Complete Study Guide
-
----
-
 # Chapter 9 — Root Cause Analysis and Post-Mortems
-
 ---
 
 ## Table of Contents
@@ -1934,10 +1929,5 @@ Action items are documented in the post-mortem but not linked to tickets in the 
 > - **Aggregate analysis reveals strategic opportunities.** Individual post-mortems produce tactical fixes. Quarterly analysis across 20+ post-mortems reveals the systemic investments — circuit breakers, test coverage, staging equivalence — that prevent entire categories of future incidents.
 
 ---
-
 *Previous: [Chapter 8 — On-Call and First Response](#chapter-8)*
 *Next: Chapter 10 — Chaos Engineering*
-
----
-
-*Document version: 1.0 | Study Guide: High Performance SRE | Chapter 9 of 12*
