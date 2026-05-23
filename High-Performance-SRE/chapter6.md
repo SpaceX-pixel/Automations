@@ -1,9 +1,4 @@
-# High Performance Site Reliability Engineering: A Complete Study Guide
-
----
-
 # Chapter 6 — SLI / SLO / SLA
-
 ---
 
 ## Table of Contents
@@ -1942,12 +1937,6 @@ A P1 alert fires on 1-minute burst of errors. The on-call engineer is paged. By 
 > - **SLOs must be reviewed quarterly.** Tighten when the service consistently outperforms the target — unused headroom produces no improvement signal. Relax when chronic breach despite investment signals the target is unrealistic.
 >
 > - **SLA language is a legal document.** SREs write the technical content; legal ensures exclusions, measurement methodology, and remedies are sound. Never publish an SLA that hasn't been reviewed by legal.
-
 ---
-
 *Previous: [Chapter 5 — Error Budgets](#chapter-5)*
 *Next: Chapter 7 — Capacity Planning*
-
----
-
-*Document version: 1.0 | Study Guide: High Performance SRE | Chapter 6 of 12*
