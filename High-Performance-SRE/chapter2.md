@@ -1,5 +1,3 @@
-# High Performance Site Reliability Engineering: A Complete Study Guide
-
 ---
 
 # Chapter 2 — From DevOps to Site Reliability Engineering
@@ -820,9 +818,8 @@ Management uses deployment frequency and MTTR to rank engineers. Teams start gam
 
 ---
 
-*Previous: [Chapter 1 — Introduction to Site Reliability Engineering](#chapter-1)*
+*Previous: [Chapter 1 — Introduction to Site Reliability Engineering](#chapter1)*
 *Next: Chapter 3 — Monitoring*
 
 ---
 
-*Document version: 1.0 | Study Guide: High Performance SRE | Chapter 2 of 12*
