@@ -1,9 +1,4 @@
-# High Performance Site Reliability Engineering: A Complete Study Guide
-
----
-
 # Chapter 5 — Error Budgets
-
 ---
 
 ## Table of Contents
@@ -1557,10 +1552,5 @@ Teams only check budget state when an alert fires. By the time the alert fires, 
 > - **Forecast the budget, don't just report it.** Weekly trend analysis gives teams 1–2 weeks of warning before exhaustion — enough time to course-correct without a crisis.
 
 ---
-
 *Previous: [Chapter 4 — Incident Management and Risk Mitigation](#chapter-4)*
 *Next: Chapter 6 — SLI / SLO / SLA*
-
----
-
-*Document version: 1.0 | Study Guide: High Performance SRE | Chapter 5 of 12*
