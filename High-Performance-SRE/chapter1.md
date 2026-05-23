@@ -1,7 +1,3 @@
-# High Performance Site Reliability Engineering: A Complete Study Guide
-
----
-
 ## Table of Contents
 
 - [Chapter 1 — Introduction to Site Reliability Engineering](#chapter-1)
@@ -15,11 +11,6 @@
   - [Further Reading & Resources](#further-reading)
   - [Key Takeaways](#key-takeaways)
 
----
-
-# Chapter 1 — Introduction to Site Reliability Engineering {#chapter-1}
-
----
 
 ## Learning Objectives {#learning-objectives}
 
