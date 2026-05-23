@@ -1,9 +1,4 @@
-# High Performance Site Reliability Engineering: A Complete Study Guide
-
----
-
 # Chapter 4 — Incident Management and Risk Mitigation
-
 ---
 
 ## Table of Contents
@@ -1313,12 +1308,7 @@ Post-mortems are written, filed, and forgotten. Action items exist as Jira ticke
 > - **FMEA and failure pattern libraries accelerate incident diagnosis.** Recognizing a thundering herd, cascading failure, or retry storm in the first 5 minutes of an incident is the difference between 15-minute and 3-hour resolution.
 >
 > - **Post-mortem action items are the ROI on every incident.** An incident without follow-through action items is a pure cost. Track completion rate — if it's below 80%, the process is broken.
-
 ---
-
 *Previous: [Chapter 3 — Monitoring](#chapter-3)*
 *Next: Chapter 5 — Error Budgets*
 
----
-
-*Document version: 1.0 | Study Guide: High Performance SRE | Chapter 4 of 12*
