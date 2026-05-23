@@ -175,23 +175,23 @@ Organizations structure SRE teams in several ways depending on their size, matur
 ┌─────────────────────────────────────────────────────┐
 │              SRE Team Topologies                    │
 ├──────────────────┬──────────────────────────────────┤
-│ Topology         │ Description                       │
+│ Topology         │ Description                      │
 ├──────────────────┼──────────────────────────────────┤
-│ Centralized SRE  │ Single SRE team serves all        │
-│                  │ product teams. Works well <500     │
-│                  │ engineers. Risk: bottleneck.       │
+│ Centralized SRE  │ Single SRE team serves all       │
+│                  │ product teams. Works well <500   │
+│                  │ engineers. Risk: bottleneck.     │
 ├──────────────────┼──────────────────────────────────┤
-│ Embedded SRE     │ SREs sit inside product squads.   │
-│                  │ Deep context. Risk: inconsistent  │
-│                  │ standards across teams.           │
+│ Embedded SRE     │ SREs sit inside product squads.  │
+│                  │ Deep context. Risk: inconsistent │
+│                  │ standards across teams.          │
 ├──────────────────┼──────────────────────────────────┤
-│ Consulting SRE   │ SRE team acts as an internal      │
-│ (Google model)   │ consultancy. Approves launches,   │
-│                  │ hands back ops once stabilized.   │
+│ Consulting SRE   │ SRE team acts as an internal     │
+│ (Google model)   │ consultancy. Approves launches,  │
+│                  │ hands back ops once stabilized.  │
 ├──────────────────┼──────────────────────────────────┤
-│ Platform SRE     │ SREs own the internal developer   │
-│                  │ platform (Kubernetes, CI/CD,      │
-│                  │ observability). Most scalable.    │
+│ Platform SRE     │ SREs own the internal developer  │
+│                  │ platform (Kubernetes, CI/CD,     │
+│                  │ observability). Most scalable.   │
 └──────────────────┴──────────────────────────────────┘
 ```
 
@@ -395,7 +395,5 @@ SRE teams that cannot demonstrate business impact get defunded. Fix: always conn
 > - The reliability mindset is a prerequisite: assume failure, measure from the user's perspective, make reliability costs visible, and never rely on heroes.
 
 ---
-
 *Next Chapter: [Chapter 2 — From DevOps to Site Reliability Engineering](#chapter-2)*
 
----
