@@ -1,9 +1,4 @@
-# High Performance Site Reliability Engineering: A Complete Study Guide
-
----
-
 # Chapter 10 — Chaos Engineering
-
 ---
 
 ## Table of Contents
@@ -1987,10 +1982,5 @@ The team runs a GameDay. Twelve findings are documented. Two action items are cr
 > - **Findings without action items are observations.** Apply the same 80% completion rate requirement to chaos experiment findings as to post-mortem action items. A resilience gap documented but not fixed is a known vulnerability.
 
 ---
-
 *Previous: [Chapter 9 — Root Cause Analysis and Post-Mortems](#chapter-9)*
 *Next: Chapter 11 — Artificial Intelligence for Site Reliability Engineering*
-
----
-
-*Document version: 1.0 | Study Guide: High Performance SRE | Chapter 10 of 12*
