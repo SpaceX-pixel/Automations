@@ -1,6 +1,4 @@
-# High Performance Site Reliability Engineering: A Complete Study Guide
 
----
 
 # Chapter 3 — Monitoring
 
@@ -1408,9 +1406,7 @@ Prometheus runs out of disk space during a major incident. The monitoring system
 
 ---
 
-*Previous: [Chapter 2 — From DevOps to Site Reliability Engineering](#chapter-2)*
+*Previous: [Chapter 2 — From DevOps to Site Reliability Engineering](#chapter2)*
 *Next: Chapter 4 — Incident Management and Risk Mitigation*
 
----
 
-*Document version: 1.0 | Study Guide: High Performance SRE | Chapter 3 of 12*
