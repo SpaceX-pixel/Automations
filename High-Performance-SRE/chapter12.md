@@ -1,11 +1,5 @@
-# High Performance Site Reliability Engineering: A Complete Study Guide
-
----
-
 # Chapter 12 — Case Studies
-
 ---
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -1089,14 +1083,6 @@ This guide was designed to serve three audiences. The following learning paths r
 **Vertical Pod Autoscaler (VPA)** — A Kubernetes component that automatically adjusts CPU and memory requests/limits for pods based on actual usage.
 
 **War room** — The coordinated, real-time communication space (physical or virtual) where the incident response team operates during an active incident.
-
----
-
-*This completes the High Performance Site Reliability Engineering: A Complete Study Guide.*
-
-*Chapters 1–12 cover the complete SRE discipline: from foundational philosophy through monitoring, incident management, error budgets, SLO design, capacity planning, on-call practice, RCA, chaos engineering, AI integration, and real-world case studies.*
-
-*Document version: 1.0 | Study Guide: High Performance SRE | Chapter 12 of 12*
 
 ---
 
